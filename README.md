@@ -29,5 +29,6 @@ pip install scikit-learn shap pandas matplotlib
 
 Acknowledgments
 
-    The dataset used in this project is sourced from 
+    The dataset used in this project is sourced from "Hannousse, Abdelhakim; Yahiouche, Salima (2021), “Web page phishing detection”, Mendeley Data, V3, doi: 10.17632/c2gw7fy2j4.3"
     Special thanks to the open-source contributors of scikit-learn and SHAP for their valuable tools.
+    Special thanks to Prof. Raviraj Vaghela for his guidance and support.
